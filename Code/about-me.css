@@ -1,0 +1,21 @@
+body {
+    background-color: dimgray;
+}
+
+h1 {
+    color: lightcoral;
+}
+
+p {
+    color: orange;
+    font-size: 20px;
+}
+
+.CIS2336 {
+    font-style: italic;
+    color: green;
+}
+
+#first {
+    color: darkblue;
+}
